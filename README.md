@@ -1,4 +1,4 @@
-binary_search_tree_py
+simple_binary_search_tree_py
 ====================
 
 Binary search tree functions written in python2.7.
